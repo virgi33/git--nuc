@@ -1,0 +1,47 @@
+:root {
+    
+--color-lindo: linear-gradient(90deg, rgba(45,50,135,1) 0%, rgba(17,69,108,0.1724137931034483) 0%, rgba(97,102,150,1) 0%, rgba(249,4,243,1) 0%, rgba(238,3,97,1) 0%, rgba(186,36,115,1) 35%, rgba(179,100,147,1) 44%, rgba(88,96,149,1) 100%);
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&display=swap');
+
+html {
+    box-sizing: border-box;
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-weight: 900;
+    font-size: 15px;
+    text-shadow: 0 2px 0 rgb(0, 0, 0.05);
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+
+}
+
+body {
+    background: linear-gradient(90deg, rgb(9, 13, 94) 0%, rgba(17,69,108,0.1724137931034483) 0%, rgb(15, 22, 80) 0%, rgb(94, 14, 92) 0%, rgba(238,3,97,1) 0%, rgba(186,36,115,1) 35%, rgba(179,100,147,1) 44%, rgba(88,96,149,1) 100%);
+    min-height: calc(100vh - 100px);
+    margin: 50px ;
+    background-attachment: fixed;
+    letter-spacing: -1px ;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0 0 5px 0;
+    color: cornsilk;
+}
+
+p {
+    color: white;
+}
+a {
+    color: white;
+}

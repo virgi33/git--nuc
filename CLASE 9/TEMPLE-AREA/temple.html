@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .contenedor {
+            display: grid;
+            grid-template-areas: 
+            'header header header header'
+            'contenido contenido contenido sidebar'
+            'box1 box2 box3 box4'
+            'footer footer footer footer';
+            grid-gap: 1 rem;
+
+        }
+        .header,
+        .contenido,
+        .box1,
+        .box2,
+        .box3,
+        .box4,
+        .footer,
+        .sidebar {
+            border: 1px green solid;
+            margin: 5px;
+        }
+        .header {
+            grid-area: header ;
+        }
+        .contenido {
+            grid-area: contenido;
+        }
+        .sidebar {
+            grid-area: sidebar;
+        }
+        .box1 {
+            grid-area: box1;
+        }
+        .box2 {
+            grid-area: box2;
+        }
+        .box3 {
+            grid-area: box3;
+        }
+        .box4 {
+            grid-area: box4;
+        }
+        .footer {
+            grid-area: footer;
+        }
+        @media (max-whidth: 500px) {
+        .contenedor {
+            
+            grid-template-areas: 
+            'header '
+            'contenido '
+            'sidebar'
+            'box1'
+            ' box2'
+            ' box3'
+            ' box4'
+            'footer';
+            grid-gap: 1 rem;
+            }
+
+    </style>
+</head>
+<body>
+    <div class="contenedor">
+        <header class="header">
+            <h1>soy un header</h1>
+        </header>
+        <section class="contenido">
+            <h1>hola </h1>
+            <p>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Non earum nesciunt tempora fuga aperiam veritatis dolorum vero incidunt, dolor maxime sint saepe ipsam porro dolore, quidem eum natus repellat nam!
+            </p>
+        </section>
+        <aside class="sidebar">
+            <h3>Chau nucba</h3>
+            <ul>
+                <li>item1</li>
+                <li>item1</li>
+                <li>item1</li>
+            </ul>
+        </aside>
+        <div class="box1">
+            <h3>box1</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. At, quasi odit. Aspernatur aut possimus, fuga iste cupiditate id ducimus obcaecati voluptatum labore voluptas architecto ab tenetur pariatur dolorum neque et.</p>
+        </div>
+        <div class="box2">
+            <h3>box2</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. At, quasi odit. Aspernatur aut possimus, fuga iste cupiditate id ducimus obcaecati voluptatum labore voluptas architecto ab tenetur pariatur dolorum neque et.</p>
+        </div>
+        <div class="box3">
+            <h3>box3</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. At, quasi odit. Aspernatur aut possimus, fuga iste cupiditate id ducimus obcaecati voluptatum labore voluptas architecto ab tenetur pariatur dolorum neque et.</p>
+        </div>
+        <div class="box4">
+            <h3>box4</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. At, quasi odit. Aspernatur aut possimus, fuga iste cupiditate id ducimus obcaecati voluptatum labore voluptas architecto ab tenetur pariatur dolorum neque et.</p>
+        </div>
+        <footer class="footer">
+            <p>colpyright y copy nucba</p>
+        </footer>
+
+
+    </div>
+
+</body>
+</html>

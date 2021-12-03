@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    
+}
+
+html {
+    box-sizing: border-box;
+}
+
+div {
+    display: inline-block ;
+    width: 200px;
+    height: 200px;
+        
+    display: flex;
+    align-items: center;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    
+    
+    
+}
+
+.boton1 {
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: cornflowerblue;
+    color: cornsilk;
+    box-shadow:0 5px 5px 0 rgba(0,0,0,0.24);
+    border: none;
+    text-align: center;
+    padding: 10px 15px;
+    font-size: 16px;
+    display: inline-block ;
+    
+
+
+}
+
+.boton2 {
+    
+    background-color: cornflowerblue;
+    color: cornsilk;
+    box-shadow:0 5px 5px 0 rgba(0,0,0,0.24);
+    border: none;
+    text-align: center;
+    padding: 10px 15px;
+    font-size: 16px;
+    display: inline-block ;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+
+.boton3 {
+    background-color: none;
+    color: cornflowerblue;
+    text-align: center;
+    padding: 10px 15px;
+    font-size: 16px;
+    display: inline-block ;
+    border:none;
+    background: none;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+    
+
+}

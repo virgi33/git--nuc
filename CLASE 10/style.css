@@ -1,0 +1,35 @@
+body {
+    font-size: 15px;
+}
+
+button {
+    background: var(--color-lindo);
+    border: 1px white solid ;
+    padding: 10px 20px;
+    color: white;
+}
+
+img {
+    max-width: 100%;
+}
+
+/*wrapper*/
+
+.wrapper {
+    display: grid;
+    grid-gap: 20px;
+}
+
+/*TOPPPPPP*/
+
+.top {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-areas:
+        'principal principal entrada1'
+        'principal principal entrada2' ;
+}
+
+.principal {
+    grid-area: principal ;
+}

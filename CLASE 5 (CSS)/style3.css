@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    color: blueviolet;
+    text-decoration:none ;
+}
+
+a:hover {
+    color: coral;
+   border-bottom: 1px solid coral;
+}
+
+button {
+    background-color: rgb(65, 86, 124);
+    color: cornsilk;
+    border: none;
+    font-size: 16px;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius:  50px ;
+    margin: 10px;
+}
+
+button:hover {
+    background-color: rgb(11, 11, 71);
+}
+.btn.btn-todo-mal {
+    background-color: red;
+}
