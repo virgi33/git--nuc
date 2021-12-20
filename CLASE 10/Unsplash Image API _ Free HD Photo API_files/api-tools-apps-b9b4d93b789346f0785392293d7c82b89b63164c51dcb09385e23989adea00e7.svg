@@ -1,0 +1,33 @@
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 352">
+  <style>
+    .st3{fill:none;stroke:#dce2eb;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1,16}.st17{fill-rule:evenodd;clip-rule:evenodd;fill:#fdad00}
+  </style>
+  <path d="M109.5 0v352" opacity=".4" fill="none" stroke="#dce2eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,16"/>
+  <path d="M49 0v352" opacity=".2" fill="none" stroke="#dce2eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,16"/>
+  <path d="M170.5 0v352" opacity=".6" fill="none" stroke="#dce2eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,16"/>
+  <path class="st3" d="M231.5 0v352M292 0v352"/>
+  <path d="M139.5-8v372" opacity=".5" fill="none" stroke="#dce2eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,16"/>
+  <path d="M79-8v372" opacity=".3" fill="none" stroke="#dce2eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,16"/>
+  <path class="st3" d="M200.5-8v372m61-372v372M322-8v372"/>
+  <circle cx="257" cy="265" r="51" fill-rule="evenodd" clip-rule="evenodd" fill="#111"/>
+  <g>
+    <path d="M257 265c0-6 5-11 11-11s11 5 11 11-5 11-11 11-11-5-11-11z" fill="#1abcfe"/>
+    <path d="M235 287c0-6 5-11 11-11h11v11c0 6-5 11-11 11s-11-5-11-11z" fill="#0acf83"/>
+    <path d="M257 232v22h11c6 0 11-5 11-11s-5-11-11-11h-11z" fill="#ff7262"/>
+    <path d="M235 243c0 6 5 11 11 11h11v-22h-11c-6 0-11 5-11 11z" fill="#f24e1e"/>
+    <path d="M235 265c0 6 5 11 11 11h11v-22h-11c-6 0-11 5-11 11z" fill="#a259ff"/>
+  </g>
+  <g transform="translate(242 38)" fill-rule="evenodd" clip-rule="evenodd">
+    <circle cx="37" cy="37" r="37"/>
+    <path d="M23.1 36.1L21 34.7v-2.3l3.8 2.6c0-.1-1.7 1.1-1.7 1.1zm.9.6l1.2-.8v1.6l-1.2-.8zm-3 2l2.1-1.4 1.7 1.1-3.8 2.5v-2.2zm-3.1-1.4l2.1 1.4V41l-3.8-2.6 1.7-1.1zm-.9-.6l-1.2.8v-1.6l1.2.8zm3-2l-2.1 1.4-1.7-1.1 3.8-2.6v2.3zm.5 3.1l-1.7-1.2 1.7-1.2 1.7 1.2-1.7 1.2zm5.7-2.9c0-.1 0-.1 0 0v-.1L21 31.3c-.2-.1-.4-.1-.5 0L15 34.5v3.8l5.2 3.5c.1 0 .2.1.3.1.1 0 .2 0 .3-.1l5.2-3.5.2-3.4zM67.9 33v5.4l-4.4-5.3c-.1-.2-.4-.2-.6-.1-.2.1-.4.3-.3.5v6.9h1.1V35l4.4 5.3c.1.1.3.2.4.2h.2c.2-.1.4-.3.3-.5v-7h-1.1zm-18.4 3.1h-1.8V34h1.8c.6 0 1.1.5 1.1 1.1 0 .6-.5 1-1.1 1zm0-3.1h-2.3c-.3 0-.5.2-.5.5v6.9h1.1v-3.2h1.8c1.2 0 2.1-1 2.1-2.1 0-1.2-1-2.1-2.2-2.1zm5.1.5v6.4c0 .3.2.5.5.5h4.4v-1.1h-3.9v-2.1h2.5v-1.1h-2.5V34h3.9v-1h-4.4c-.3 0-.5.2-.5.5zm-16.1 0v6.4c0 .3.2.5.5.5h4.4v-1.1h-3.9v-2.1H42v-1.1h-2.5V34h3.9v-1H39c-.3 0-.5.2-.5.5zm-6.7 5.8h-1.6V34h1.6c1.5 0 2.7 1.2 2.7 2.7 0 1.5-1.2 2.6-2.7 2.6zm0-6.3h-2.1c-.3 0-.5.2-.5.5v6.4c0 .3.2.5.5.5h2.1c2.1 0 3.7-1.7 3.7-3.7.1-2-1.5-3.7-3.7-3.7.1 0 .1 0 0 0zm-21.8.8c.7 0 1.4.2 1.8.7l.7-.8c-.7-.6-1.6-.9-2.5-.9-2.2 0-4 1.8-4 4s1.8 4 4 4c1 0 1.8-.3 2.5-.9l-.7-.8c-.5.4-1.2.7-1.8.7-1.6 0-2.9-1.3-2.9-2.9-.1-1.7 1.2-3.1 2.9-3.1-.1 0-.1 0 0 0z" fill="#fff"/>
+  </g>
+  <g transform="translate(147 120)">
+    <circle cx="30" cy="30" r="30" fill-rule="evenodd" clip-rule="evenodd" fill="#140c3d"/>
+    <path d="M20.4 17L13 26.9l16.9 19.6 16.9-19.6-7.3-9.9-9.5-1-9.6 1z" fill-rule="evenodd" clip-rule="evenodd" fill="#fdb300"/>
+    <path d="M13 26.9l16.9 19.6-10-19.6H13zm27 0L29.9 46.4l16.9-19.6H40z" fill-rule="evenodd" clip-rule="evenodd" fill="#ea6c00"/>
+    <path class="st17" d="M19.9 26.9L30 46.5l10-19.6H19.9z"/>
+    <path d="M20.4 17l-.5 9.8 10-10.8-9.5 1zM40 26.9l-.5-9.9-9.5-1 10 10.9z" fill-rule="evenodd" clip-rule="evenodd" fill="#fdd231"/>
+    <path class="st17" d="M40 26.9h6.9L39.5 17l.5 9.9zm-27 0h6.9l.5-9.8-7.4 9.8z"/>
+    <path d="M29.9 16l-10 10.9H40L29.9 16z" fill-rule="evenodd" clip-rule="evenodd" fill="#feeeb7"/>
+  </g>
+</svg>

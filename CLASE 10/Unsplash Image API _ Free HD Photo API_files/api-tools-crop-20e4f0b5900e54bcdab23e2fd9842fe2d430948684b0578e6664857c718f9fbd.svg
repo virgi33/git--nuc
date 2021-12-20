@@ -1,0 +1,27 @@
+<svg width="352" height="352" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient x1="0%" y1="0%" y2="100%" id="a">
+      <stop stop-color="#FFF" offset="0%"/>
+      <stop stop-color="#FFF" stop-opacity="0" offset="100%"/>
+    </linearGradient>
+    <linearGradient x1="0%" y1="0%" x2="81.023%" y2="93.968%" id="b">
+      <stop stop-color="#E9F4EF" stop-opacity=".053" offset="0%"/>
+      <stop stop-color="#E6EFEB" stop-opacity=".293" offset="29.346%"/>
+      <stop stop-color="#D7E0DC" offset="100%"/>
+    </linearGradient>
+    <path id="c" d="M0 26.872L39.009 0 75 26v22l-74.99.028z"/>
+    <path id="d" d="M.252 25.626L41.934.816l51.318 54.81h-93z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g stroke="#D5EBDD" stroke-dasharray="5,8" stroke-linecap="square" stroke-width="2">
+      <path d="M102 157h226M102 275h226M137 122v190M293 122v190"/>
+    </g>
+    <path fill="url(#a)" d="M0 0h110v92H0z" transform="translate(99 119)"/>
+    <g transform="translate(145 166)">
+      <path fill="url(#b)" d="M1 0h138v100H1z"/>
+      <ellipse fill="#A3CCB9" fill-rule="nonzero" cx="75.385" cy="27.471" rx="12" ry="11.977"/>
+      <use fill="#A3CCB9" fill-rule="nonzero" xlink:href="#c" transform="translate(64 52)"/>
+      <use fill="#B8E7D1" fill-rule="nonzero" xlink:href="#d" transform="translate(.748 44.374)"/>
+    </g>
+  </g>
+</svg>
